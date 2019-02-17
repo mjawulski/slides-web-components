@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.my-photo {
+  float: left;
+  width: 350px;
+}
+
+.slides {
+  color: #777777 !important;
+}
+
+.highlight.orange {
+  color: #ffa000;
+}
+
+.highlight.yellow {
+  color: #ffca2a;
+}
+
+.my-photo {
+  float: left;
+  width: 350px;
+}
+
+.about-me-list {
+  font-size: 0.6em !important;
+}
+
+.dark {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+img.clear {
+  border: 0 !important;
+  background: none !important;
+}
+
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal h3 {
+  color: #777777;
+  text-transform: none;
+}
+
+.reveal a {
+  color: #ffa000;
+}

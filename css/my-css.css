@@ -31,3 +31,29 @@ img {
 .reveal .no-border {
   border: 0px;
 }
+.reveal .footer .images img {
+  max-width: 200px;
+}
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+}
+
+.wc-frameworks figure {
+  display: block;
+  float: left;
+  max-width: 300px;
+}
+
+.wc-frameworks img {
+  border: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  height: 300px;
+}
+
+.wc-frameworks figcaption {
+  font-size: 0.5em;
+}
